@@ -8,7 +8,6 @@ This project was made to deepen my knowledge about python, SQL databases, learn 
 #### • Create app, which could be used for small business. Ensure traceability in warehouse and production.
 #### • Create SQL database
 #### • Track material quantities
-#### • Learn about Tkinter
 #### • Have fun and improve
 
 ## Main steps:
