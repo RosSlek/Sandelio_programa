@@ -11,24 +11,28 @@ This project was made to deepen my knowledge about python, SQL databases, learn 
 #### • Have fun and improve
 
 ## Main steps:
-#### •	Learn about Tkinter, create nice looking UI.
+#### •	Create UI using Tkinter.
 #### •	Create SQL database for warehouse materials, materials in production and production register.
 #### •  Add functionality and comfortability.
 
 ## Result:
-### Created UI to represent daily workers activities.
+### Created UI to represent daily routines.
 
+![image](https://github.com/RosSlek/Sandelio_programa/assets/149397027/67a7d76b-15ba-468e-bec4-bf71b664845c)
 
 ### Created functions to add materials to the warehouse, transfer materials to production with optional comment fields and timestamps when action occured. Functions to show remaining inventory in warehouse and production, informational popup windows.
 
+![image](https://github.com/RosSlek/Sandelio_programa/assets/149397027/6ebef651-89f8-44ca-9906-e68b6b8ed78d)
 
+![image](https://github.com/RosSlek/Sandelio_programa/assets/149397027/150a93fb-7f73-43e3-b960-1c90c022dba6)
 
 ### Created function to registrate work orders, to write off used materials, added safety features to fill correct data.
 
-
+![image](https://github.com/RosSlek/Sandelio_programa/assets/149397027/dd4843f8-6c22-4c83-8254-11fe853d8084)
 
 ### Added switches to change view of inventory in warehouse/production, light/dark mode.
 
+![image](https://github.com/RosSlek/Sandelio_programa/assets/149397027/71deef22-6481-47a7-b53b-fe8cfdfcec9c)
 
 ### Program creates excel files (not CSV, so it would be more friendly to lithuanian language and user) with history of every action, in case of mistakes it can be easily corrected manually. Positive numbers show added materials, negative - removed or consumed.
 
