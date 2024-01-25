@@ -44,4 +44,4 @@ This project was made to deepen my knowledge about python, SQL databases, learn 
 
 ## Conslusion
 
-Program and script to create PostgreQL database were created successfully. Program creates 3 tables: sandelio_istorija, gamybos_istorija and gamybos_darbu_registras which records every movement of the materials in plant with timestamps and optional comments.
+Program and script to create PostgreQL database were created successfully. Program creates 3 tables: sandelio_istorija, gamybos_istorija and gamybos_darbu_registras which records every movement of the materials in plant with timestamps and optional comments. It then uses those transactions to follow materials balance in locations and amount of materials used for each order.
