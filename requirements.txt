@@ -1,0 +1,12 @@
+pandas
+datetime
+customtkinter
+Pillow
+utils
+PyPI
+CTkMessagebox
+packaging
+pandastable
+openpyxl
+psycopg2
+sqlalchemy

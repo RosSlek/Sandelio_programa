@@ -1,0 +1,8 @@
+duomenu baze : sandelio sistema
+user : postgres
+password : PGadmin
+host : localhost
+port : 5432
+
+keiciamos reiksmes turi likti toje pacioje vietoje ir skiriamos tokiu pat budu, negalima keisti nei failo formato nei jo pavadinimo.
+failo pavadinimas : duomenu baze
