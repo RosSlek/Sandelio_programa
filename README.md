@@ -44,4 +44,4 @@ This project was made to deepen my knowledge about python, SQL databases, learn 
 
 ## Conslusion
 
-
+Program and a script to create PostgreQL database were created successfully, also
