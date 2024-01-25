@@ -2,20 +2,19 @@
 
 Created by [Rosvaldas Šlekys](https://github.com/RosSlek) 
 
-This project was made to deepen my knowledge about python, learn new things, better understand what I already knew and apply it to real life situations.
+This project was made to deepen my knowledge about python, SQL databases, learn new things and better understand what I already knew.
 
 ## The main goals for this project were to:
-#### •	Create app, which could be used for small business and make day-to-day job easier
-#### • Ensure traceability in warehouse and production
+#### • Create app, which could be used for small business. Ensure traceability in warehouse and production.
+#### • Create SQL database
 #### • Track material quantities
 #### • Learn about Tkinter
-#### • Have fun
-#### • Improve
+#### • Have fun and improve
 
 ## Main steps:
 #### •	Learn about Tkinter, create nice looking UI.
-#### • Add functionality and comfortability.
-#### •	Adapt app to real business example
+#### •	Create SQL database for warehouse materials, materials in production and production register.
+#### •  Add functionality and comfortability.
 
 ## Result:
 ### Created UI to represent daily workers activities.
