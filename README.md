@@ -6,13 +6,13 @@ This project was made to deepen my knowledge about python, SQL databases, learn 
 
 ## The main goals for this project were to:
 #### • Create app, which could be used for small business. Ensure traceability in warehouse and production.
-#### • Create PostgreSQL database
+#### • Create database.
 #### • Track material quantities
 #### • Have fun and improve
 
 ## Main steps:
 #### •	Create UI using Tkinter.
-#### •	Create SQL database for warehouse materials, materials in production and production register.
+#### •	Create database for warehouse materials, materials in production and production register.
 #### •  Add functionality and comfortability.
 
 ## Result:
@@ -40,7 +40,7 @@ Added switches to change view of inventory in warehouse/production, light/dark m
 
 ![image](https://github.com/RosSlek/Sandelio_programa/assets/149397027/71deef22-6481-47a7-b53b-fe8cfdfcec9c)
 
-Program saves every operation in PostgreSQL database tables, in case of mistake it must be corrected manually. Positive numbers show added materials, negative - removed or consumed.
+Program saves every operation in database tables, in case of mistake it must be corrected manually. Positive numbers show added materials, negative - removed or consumed.
 
 ## Conslusion
 
